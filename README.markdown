@@ -16,7 +16,7 @@ you to solve more complicated problems and use more advanced techniques.
 
 ## Running the Koans
 Simply navigate to the Javascript Koans folder using a file browser, and
-double click on KoansRunnner.html. 
+double click on KoansRunnner.html.
 
 Any browser will do, but for the best results Firefox or Chrome is
 recommended. More stack trace information shows up for javascript on these
@@ -28,6 +28,7 @@ refresh the browser. Rinse and repeat until all tests turn green.
 The test runner used is [Jasmine](http://jasmine.github.io/) with a customized report viewer.
 
 ### Changelog
+
 *  v3 - Nov 2010  - Moved out of branch of functional-koans project, into own top level project
 *  v2 - Sept 2010 - Second version based on jasmine (Thanks Greg Malcolm!)
 *  v1 - July 2010 - First version based on jsTestDriver
